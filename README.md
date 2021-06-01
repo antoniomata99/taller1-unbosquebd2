@@ -14,7 +14,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 ### Pre-requisitos 📋
 
 * Anaconda
-* Postgress
+* Postgres
 * Cuenta en Google Cloud
 
 ```
@@ -35,7 +35,7 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 
 
-* [Postgress](https://www.postgresql.org/download/) - Base dedatos
+* [Postgres](https://www.postgresql.org/download/) - Base dedatos
 * [Anaconda](https://www.anaconda.com/products/individual) - Manejador de datos
 * [Cuenta en Google Cloud](https://console.cloud.google.com/) - Bodega de Datos
 
@@ -58,3 +58,12 @@ Este proyecto está bajo la Licencia de wakanda - mira el archivo [LICENSE.md](L
 
 ## Carga a Postgres
 <img src="/img/postgres.png" alt="My cool logo"/>
+
+## Carga a BigQuery Google Cloud
+<img src="/img/bigquery1.png" alt="My cool logo"/>
+<img src="/img/bigquery2.png" alt="My cool logo"/>
+<img src="/img/bigquery3.png" alt="My cool logo"/>
+<img src="/img/bigquery4.png" alt="My cool logo"/>
+<img src="/img/bigquery5.png" alt="My cool logo"/>
+
+## Diccionario de datos
