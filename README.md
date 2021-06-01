@@ -52,3 +52,9 @@ https://docs.anaconda.com/anaconda/install/windows/
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia de wakanda - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+# 
+# Evidencias
+
+## Carga a Postgres
+<img src="/img/postgres.png" alt="My cool logo"/>
