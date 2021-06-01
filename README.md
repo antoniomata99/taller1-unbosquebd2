@@ -2,15 +2,6 @@
 
 _El proposito del proyecto es desarrollar un proceso de extracción y manipulación de datos con el software Pandas_
 
-## Comenzando 🚀
-
-_Git Clone
-
-_
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 * Anaconda
