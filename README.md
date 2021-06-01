@@ -45,9 +45,10 @@ https://docs.anaconda.com/anaconda/install/windows/
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Antonio Mata** - *Desarrollo* - [antoniomata99](https://github.com/antoniomata99)
-* **Fabian Gonzalez** - *Desarrollo* - [MaruanArias](https://github.com/MaruanArias)
+* **Maruan Arias** - *Desarrollo* - [MaruanArias](https://github.com/MaruanArias)
 * **John Bedoya** - *Desarrollo* - [Alejandro-prog](https://github.com/Alejandro-prog)
-* **Maruan Arias** - *Desarrollo* - [username](github.com)
+* **Fabian Gonzalez** - *Desarrollo* - [username](github.com)
+
 
 
 ## Licencia 📄
