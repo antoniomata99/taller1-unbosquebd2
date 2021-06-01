@@ -13,9 +13,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_* Anaconda
+* Anaconda
 * Postgress
-* Cuenta en Google Cloud_
+* Cuenta en Google Cloud
 
 ```
 https://www.postgresql.org/download/
@@ -44,9 +44,9 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Antonio Mata** - *Desarrollo* - [username](github.com)
-* **Fabian Gonzalez** - *Desarrollo* - [username](github.com)
-* **John Bedoya** - *Desarrollo* - [username](github.com)
+* **Antonio Mata** - *Desarrollo* - [antoniomata99](https://github.com/antoniomata99)
+* **Fabian Gonzalez** - *Desarrollo* - [MaruanArias](https://github.com/MaruanArias)
+* **John Bedoya** - *Desarrollo* - [Alejandro-prog](https://github.com/Alejandro-prog)
 * **Maruan Arias** - *Desarrollo* - [username](github.com)
 
 
