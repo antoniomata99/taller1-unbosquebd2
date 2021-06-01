@@ -44,9 +44,9 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Antonio Mata** - *Desarrollo* - [antoniomata99](https://github.com/antoniomata99)
-* **Maruan Arias** - *Desarrollo* - [MaruanArias](https://github.com/MaruanArias)
-* **John Bedoya** - *Desarrollo* - [Alejandro-prog](https://github.com/Alejandro-prog)
+* **Antonio Mata** - *Desarrollo* - [antoniomata99](https://www.instagram.com/p/CNeBkr5LV2AXzRnMBqmk0VYHFYfjlLU_EGZ7Mo0/)
+* **Maruan Arias** - *Desarrollo* - [MaruanArias](https://www.xnxx.com/video-vkknv3b/bob_esponja_cancion_sad)
+* **John Bedoya** - *Desarrollo* - [Alejandro-prog](https://www.youtube.com/watch?v=NsK0rq4ZTMg)
 * **Fabian Gonzalez** - *Desarrollo* - [username](github.com)
 
 
