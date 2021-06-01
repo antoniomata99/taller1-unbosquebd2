@@ -44,10 +44,10 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Antonio Mata** - *Desarrollo* - [_amata@unbosque.edu.co_](https://github.com/antoniomata99)
-* **Maruan Arias** - *Desarrollo* - [_meariasc@unbosque.edu.co_](https://github.com/MaruanArias)
-* **John Bedoya** - *Desarrollo* - [_jabedoya@unbosque.edu.co_](https://github.com/Alejandro-prog)
-* **Fabian Gonzalez** - *Desarrollo* - [_fagonzalezm@unbosque.edu.co_](https://www.youtube.com/watch?v=XFkzRNyygfk)
+* **Antonio Mata**  - [_amata@unbosque.edu.co_](https://github.com/antoniomata99)
+* **Maruan Arias** - [_meariasc@unbosque.edu.co_](https://github.com/MaruanArias)
+* **John Bedoya** - [_jabedoya@unbosque.edu.co_](https://github.com/Alejandro-prog)
+* **Fabian Gonzalez** - [_fagonzalezm@unbosque.edu.co_](https://www.youtube.com/watch?v=XFkzRNyygfk)
 
 
 
