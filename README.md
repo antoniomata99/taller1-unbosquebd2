@@ -35,9 +35,10 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 
 
-* [Postgres](https://www.postgresql.org/download/) - Base dedatos
+* [Postgres](https://www.postgresql.org/download/) - Base de datos
 * [Anaconda](https://www.anaconda.com/products/individual) - Manejador de datos
 * [Cuenta en Google Cloud](https://console.cloud.google.com/) - Bodega de Datos
+* [AdventureWorks] (https://github.com/lorint/AdventureWorks-for-Postgres/) - Base de datos a cargar en Postgres 
 
 
 ## Autores ✒️
