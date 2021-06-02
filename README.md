@@ -90,7 +90,7 @@ name_productcategory | object | Nombre del producto de la categoría
 Variable | Tipo | Descripción |
 ---------|------|-------------|
 cultureid | object | ID de cultura
-name_culture | object | Nombre del vendedor
+name_culture | object | Nombre de la cultura
 productmodelid | int64 | ID del modelo del producto
 name_productmodel | object | Nombre del modelo del producto
 productid | int64 | ID del producto
